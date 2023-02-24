@@ -4,13 +4,15 @@
 
 - 🔭 I have worked on [Computer Fundamentals](https://github.com/enn-y/Computer-Fundamentals.git)
 
-- 🌱 I’m currently learning **SQL, Java, CSS, HTML, Javascript, Haskell**
-
 - 🔭 I have worked on [Systems & Architecture](https://github.com/enn-y/Systems-Architecture.git)
 
 - 🔭 I have worked on [Programming & Algorithms](https://github.com/enn-y/Programming-Algorithms.git)
 
-- 🌱 I aspire to be [Full Stack Software Engineer](Full Stack Software Engineer)
+- 🔭 I have worked on [Python Projects](https://github.com/enn-y/Python-Projects)
+
+- 🌱 I’m currently learning **SQL, Java, CSS, HTML, Javascript, Haskell**
+
+- 🌱 I aspire to be [Full Stack Software Engineer]
 
 - 📫 How to reach me **luachongen@gmail.com**
 

@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **luachongen@gmail.com**
 
-- ⚡ Fun fact **I love sports!**
+- ⚡ Fun fact **I love sports! Especially Ultimate Frisbee!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

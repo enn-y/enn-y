@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **SQL, Java, CSS, HTML, Javascript, Haskell**
 
-- 🌱 I aspire to be [Full Stack Software Engineer]
+- 🌱 I aspire to be a Full Stack Software Engineer
 
 - 📫 How to reach me **luachongen@gmail.com**
 

@@ -10,6 +10,8 @@
 
 - 🔭 I have worked on [Python Projects](https://github.com/enn-y/Python-Projects)
 
+- 🔭 I have worked on [ARM Assembly Language](https://github.com/enn-y/ARM-Assembly-Language-Practice)
+
 - 🌱 I’m currently learning **SQL, Java, CSS, HTML, Javascript, Haskell**
 
 - 🌱 I aspire to be [Full Stack Software Engineer]

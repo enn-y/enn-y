@@ -12,7 +12,7 @@
 
 - 🔭 I have worked on [ARM Assembly Language](https://github.com/enn-y/ARM-Assembly-Language-Practice)
 
-- 🌱 I’m currently learning **Figma, AdobeXD, ReactJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 🌱 I aspire to be a Web Developer
 

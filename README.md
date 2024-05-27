@@ -1,12 +1,6 @@
 <h1 align="center">Hi there! 👋, I'm Lua Chong En</h1>
 <h3 align="center">Penultimate Year Student at The University of Nottingham Malaysia, pursuing a Bachelor of Science (Hons) in Computer Science</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
-- 🔭 I have worked on [Computer Fundamentals](https://github.com/enn-y/Computer-Fundamentals.git)
-- 🔭 I have worked on [Systems & Architecture](https://github.com/enn-y/Systems-Architecture.git)
-- 🔭 I have worked on [Programming & Algorithms](https://github.com/enn-y/Programming-Algorithms.git)
-- 🔭 I have worked on [Python Projects](https://github.com/enn-y/Python-Projects)
-- 🔭 I have worked on [ARM Assembly Language](https://github.com/enn-y/ARM-Assembly-Language-Practice)
 - 🌱 I’m currently learning **ReactJS**
 - 🌱 I aspire to be a Web Developer
 - 📫 How to reach me **luachongen@gmail.com**
@@ -38,3 +32,4 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enn-y&layout=compact&theme=radical" alt="enn-y's Top Languages">
 </p>
+

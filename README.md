@@ -1,20 +1,19 @@
 <h1 align="center">Hi there! 👋, I'm Lua Chong En</h1>
 <h3 align="center">Penultimate Year Student at The University of Nottingham Malaysia, pursuing a Bachelor of Science (Hons) in Computer Science</h3>
 
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="flex: 1; padding-right: 20px;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <div style="flex: 1; padding: 10px;">
     <p>🌱 I’m currently learning <strong>ReactJS</strong></p>
     <p>🌱 I aspire to be a Web Developer</p>
     <p>📫 How to reach me <strong>luachongen@gmail.com</strong></p>
     <p>⚡ Fun fact <strong>I love sports! Especially Ultimate Frisbee!</strong></p>
 
-    <h3>Connect with me:</h3>
+   <h3>Connect with me:</h3>
     <p>
       <a href="https://www.linkedin.com/in/chong-en-lua-046717236/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lua chong en" height="30" width="40" /></a>
     </p>
 
-    <h3>Languages and Tools:</h3>
+   <h3>Languages and Tools:</h3>
     <p>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -27,17 +26,15 @@
     </p>
   </div>
 
-  <div style="flex: 1; padding-left: 20px;">
-    <h3>My GitHub Stats:</h3>
+  <div style="flex: 1; padding: 10px;">
+    <h3 align="center">My GitHub Stats:</h3>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=enn-y&show_icons=true&theme=radical" alt="enn-y's GitHub stats">
     </p>
-
-    <h3>Top Languages:</h3>
+    <h3 align="center">Top Languages:</h3>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enn-y&layout=compact&theme=radical" alt="enn-y's Top Languages">
     </p>
   </div>
-
 </div>
 
